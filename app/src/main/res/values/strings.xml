@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="news">News</string>
+    <string name="search">Search news</string>
+    <string name="error_message">Something went wrong\nLet\'s try again?</string>
+    <string name="try_again">Try again</string>
+    <string name="error">Error!</string>
+</resources>
